@@ -5,7 +5,7 @@
     padding: 0;
     font-family: 'Lato', sans-serif;
 }
-
+@media only screen and (max-width:1250px){
 .navbar{
     background-color: rgb(255, 255, 255);
     display: flex;
@@ -341,7 +341,7 @@ footer img:hover{
     color: rgb(0, 174, 255);
     background-color: #fff;
 } 
-
+}
 @media only screen and (max-width:350px){
     .navbar{
         background-color: rgb(255, 255, 255);
