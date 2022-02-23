@@ -5,7 +5,7 @@
     padding: 0;
     font-family: 'Lato', sans-serif;
 }
-/* 
+
 .navbar{
     background-color: rgb(255, 255, 255);
     display: flex;
@@ -340,7 +340,7 @@ footer img:hover{
     transition: .5s ease-out;
     color: rgb(0, 174, 255);
     background-color: #fff;
-}   */
+} 
 
 @media only screen and (max-width:350px){
     .navbar{
